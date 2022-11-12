@@ -24,10 +24,10 @@ h1{
 .top-cloud {
   position: absolute;
   top: 50px;
-  right: 450px;
+  right: 400px;
 }
 .bottom-cloud {
   position: absolute;
-  left: 450px;
+  left: 400px;
   bottom: 300px;
 }
